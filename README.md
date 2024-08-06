@@ -1,13 +1,14 @@
 # Descrição:
-Esse projeto é uma API desenvolvida para cadastro de usuarios no banco de dados não relacional (MongoDB).
+Desenvolvi um frontend para uma API de cadastro de usuários utilizando bancos de dados não relacionais. A interface permite criar, atualizar e deletar usuários, integrando-se de maneira eficiente com a API.
 
 ## Tecnologias: 
-- Node.js
-- Js
-- Express
-- Prisma 
-- MongoDB 
+- Html 
+- CSS 
+- Js 
+- Axios 
+- React 
+- Vite 
 
+### Vídeo demonstrativo do projeto: 
 
-### Complementos: 
-- Frontend do projeto Accounts: https://github.com/joaodes02/Accounts-Front-End
+Link Drive: https://kub.sh/79623c
