@@ -11,4 +11,4 @@ Desenvolvi um frontend para uma API de cadastro de usuários utilizando bancos d
 
 ### Vídeo demonstrativo do projeto: 
 
-Link Drive: https://kub.sh/79623c
+Link Drive: https://kub.sh/df1ce9
